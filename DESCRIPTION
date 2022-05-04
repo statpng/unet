@@ -1,0 +1,16 @@
+Package: unet
+Title: What the Package Does (One Line, Title Case)
+Version: 1.4.4
+Authors@R: 
+    person(given = "Kipoong",
+           family = "Kim",
+           role = c("aut", "cre"),
+           email = "kkp7700@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0002-7787-2427"))
+Description: What the package does (one paragraph).
+License: use_gpl3_license()
+Encoding: UTF-8
+Imports: glmnet, mnormt
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
